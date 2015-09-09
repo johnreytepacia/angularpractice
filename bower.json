@@ -1,0 +1,17 @@
+{
+  "name": "angularpractice",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "ui-router": "~0.2.15"
+  }
+}
